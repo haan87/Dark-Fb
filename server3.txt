@@ -20,6 +20,6 @@ KALO ADA MASALAH WA : 082211661007
 
 VIA WHATSAPP!!!!1!1!1
 """)
-subprocess.check_output(["am","start","https://www.youtube.com/channel/UCLU9H65QrIC6u2UetU6476w"])
+subprocess.check_output(["am","start","])
 
 
