@@ -6,7 +6,7 @@
 <h3>Installing</h3><br>
 $ pkg install git<br>
 $ pkg install curl<br>
-$ git clone https://github.com/Mr-XsZ/Dark-Fb<br>
+$ git clone https://github.com/haan87/Dark-Fb<br>
 $ cd Dark-Fb<br>
 $ bash install.sh<br><br>
 <h1>Menu Tools</h1><br>
